@@ -2,7 +2,7 @@
 name: "[Advanced] 기능 추가"
 about: Advanced
 title: ''
-labels: ''
+labels: Advanced
 assignees: ''
 
 ---
