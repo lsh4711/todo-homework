@@ -1,14 +1,9 @@
 package com.todohomework.controller;
 
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
-
-@RestController
-@RequestMapping
+// @RestController
+// @RequestMapping
 public class TodoController {
-	@GetMapping
-	public String getString() {
-		return "To-do Application !";
-	}
+	// public String getLogin() {
+	// 	return "<a href=\"http://localhost:8080/kakao\">카카오 인증</a>";
+	// }
 }
